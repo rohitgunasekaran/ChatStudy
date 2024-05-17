@@ -1,4 +1,6 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
+### NAME: G.ROHIT
+### REGISTER NO: 212222240083
 
 ## Aim: 
 To perform a study on Client Server Chat Applications
